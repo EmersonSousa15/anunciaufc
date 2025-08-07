@@ -24,7 +24,7 @@
 Utilizamos o **Project Planning for Developers** para organizar as tarefas e prazos. A equipe trabalhou colaborativamente, com cada membro responsável por uma parte fundamental do projeto:
 
 - **Protótipo no Figma**: Criado por **Stephany** e **Fernanda**, com foco na usabilidade e na interface do usuário.
-- **API**: Desenvolvida por **Júlio**, garantindo a integração entre o front-end e o back-end.
+- **API**: Desenvolvida por **Giovanna e Hitalécio**, garantindo a integração entre o front-end e o back-end.
 - **Conexão com Banco de Dados**: Implementada por **Hitalécio**, garantindo a comunicação segura e eficiente com o banco de dados.
 - **Diagramas de Classes e Arquitetura do Sistema**: Criados por **Giovanna**, mapeando a estrutura do sistema e suas interações.
 - **Desenvolvimento das Telas**: Conduzido por **Emerson**, com base no protótipo criado no Figma.
