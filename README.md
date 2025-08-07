@@ -2,7 +2,6 @@
 # UFC Crateús - Projeto Integrador III - 2025.1
 
 ## Equipe
-- *Júlio César de Lira Marinho* - 555868
 - *Giovanna Maria Veríssimo Xavier* - 555672
 - *Hitalécio Gomes Mesquita* - 554444
 - *Stephany Rodrigues Gonçalves* - 554367
@@ -16,9 +15,8 @@
   - **Emerson de Sousa Carvalho** - Desenvolvimento das telas
 
 - **Back-end**:
-  - **Júlio César de Lira Marinho** - Desenvolvimento das funções da API
-  - **Hitalécio Gomes Mesquita** - Conexão com banco de dados
-  - **Giovanna Maria Veríssimo Xavier** - Diagramas de classes e arquitetura do sistema
+  - **Hitalécio Gomes Mesquita** - Conexão com banco de dados e desenvolvimento das funções da API
+  - **Giovanna Maria Veríssimo Xavier** - Diagramas de classes, arquitetura do sistema e desenvolvimento das funções da API
 
 ## Planejamento do Projeto
 Utilizamos o **Project Planning for Developers** para organizar as tarefas e prazos. A equipe trabalhou colaborativamente, com cada membro responsável por uma parte fundamental do projeto:
