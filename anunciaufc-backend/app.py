@@ -401,7 +401,7 @@ def login():
         admin = db.query('SELECT * FROM ADMINISTRATORS WHERE userId = %s', (user[0],))
         
         if admin:
-            token = create_jwt_token(user, 'admin')
+            token = create_jwt_token(user, 'admin') 
             return jsonify({'message': 'Login realizado com sucesso do administrador',
                             'type': 'admin',
                             'token': token}), 200
